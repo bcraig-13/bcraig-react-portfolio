@@ -1,0 +1,46 @@
+/* Need to change color of hamburger. My new style colors are making it opaque */
+@font-face {
+  font-family: Dreams-of-theater;
+  src: url("../../assets/Dreamsoftheatre-5Vja.ttf");
+}
+
+.navbar {
+  font-family: Dreams-of-theater;
+  font-size: 24px;
+  border-color: slategrey;
+  border-style: outset;
+  border-width: 10px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../assets/metal_img.jpg");
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+.my-name {
+  font-size: 40px;
+  color: white;
+  font-family: Dreams-of-theater;
+  font-weight: bold;
+}
+
+nav,
+.nav-link {
+  color: white;
+  font-weight: bold;
+}
+
+.navbar-nav > li {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.zoom:hover {
+  transform: scale(1.8);
+  /* transition: all ease 500ms; */
+}
+
+.zoom {
+  transition: all ease 500ms;
+}

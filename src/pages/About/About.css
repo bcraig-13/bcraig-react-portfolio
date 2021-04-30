@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Dreams-of-theater;
+    src: url("../../assets/Dreamsoftheatre-5Vja.ttf");
+}
+
+h1 {
+    font-family: Dreams-of-theater;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    font-size: 22px;
+}
+
+.block-one {
+    background-color: gray;
+    border-width:15px;  
+    border-style:outset;
+    border-color: slategrey;
+}
+
+body {
+    background-image: url("../../assets/blackHole.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    background-position: center;
+}

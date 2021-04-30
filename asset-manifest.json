@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/bcraig-react-portfolio/static/css/main.2ff7ffec.chunk.css",
+    "main.js": "/bcraig-react-portfolio/static/js/main.9fb50157.chunk.js",
+    "main.js.map": "/bcraig-react-portfolio/static/js/main.9fb50157.chunk.js.map",
+    "runtime-main.js": "/bcraig-react-portfolio/static/js/runtime-main.217c41d7.js",
+    "runtime-main.js.map": "/bcraig-react-portfolio/static/js/runtime-main.217c41d7.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/bcraig-react-portfolio/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.fbed14cb.chunk.js": "/bcraig-react-portfolio/static/js/2.fbed14cb.chunk.js",
+    "static/js/2.fbed14cb.chunk.js.map": "/bcraig-react-portfolio/static/js/2.fbed14cb.chunk.js.map",
+    "index.html": "/bcraig-react-portfolio/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/bcraig-react-portfolio/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.2ff7ffec.chunk.css.map": "/bcraig-react-portfolio/static/css/main.2ff7ffec.chunk.css.map",
+    "static/js/2.fbed14cb.chunk.js.LICENSE.txt": "/bcraig-react-portfolio/static/js/2.fbed14cb.chunk.js.LICENSE.txt",
+    "static/media/Contact.css": "/bcraig-react-portfolio/static/media/Dreamsoftheatre-5Vja.7a502159.ttf",
+    "static/media/About.css": "/bcraig-react-portfolio/static/media/blackHole.b3bd1648.jpg",
+    "static/media/dtTrib.d151349d.PNG": "/bcraig-react-portfolio/static/media/dtTrib.d151349d.PNG",
+    "static/media/empDir.b714395e.PNG": "/bcraig-react-portfolio/static/media/empDir.b714395e.PNG",
+    "static/media/lyrArt.b46d305d.PNG": "/bcraig-react-portfolio/static/media/lyrArt.b46d305d.PNG",
+    "static/media/me.1400611f.jpg": "/bcraig-react-portfolio/static/media/me.1400611f.jpg",
+    "static/media/Navbar.css": "/bcraig-react-portfolio/static/media/metal_img.319d13bb.jpg",
+    "static/media/movieTaste.3a602e5a.PNG": "/bcraig-react-portfolio/static/media/movieTaste.3a602e5a.PNG",
+    "static/media/pokeBase.a200da3b.PNG": "/bcraig-react-portfolio/static/media/pokeBase.a200da3b.PNG",
+    "static/media/readmeGen.f91b733a.png": "/bcraig-react-portfolio/static/media/readmeGen.f91b733a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.217c41d7.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.fbed14cb.chunk.js",
+    "static/css/main.2ff7ffec.chunk.css",
+    "static/js/main.9fb50157.chunk.js"
+  ]
+}

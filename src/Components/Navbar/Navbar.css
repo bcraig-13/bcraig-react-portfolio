@@ -4,6 +4,7 @@
   src: url("../../assets/Dreamsoftheatre-5Vja.ttf");
 }
 
+/* Removing bg image and using custom css bg */
 .navbar {
   font-family: Dreams-of-theater;
   font-size: 24px;
@@ -12,10 +13,6 @@
   border-width: 10px;
   padding-top: 0px;
   padding-bottom: 0px;
-  background-image: url("../../assets/metal_img.jpg");
-  background-position: center;
-  background-repeat: repeat;
-  background-size: cover;
 }
 
 .my-name {

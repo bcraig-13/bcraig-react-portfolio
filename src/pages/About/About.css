@@ -20,10 +20,7 @@ p {
     border-color: slategrey;
 }
 
-body {
-    background-image: url("../../assets/blackHole.jpg");
-    background-repeat: no-repeat;
-    background-size:cover;
-    background-attachment: fixed;
-    background-position: center;
-}
+/* Removing bg image and replacing with custom css */
+/* body {
+    
+} */

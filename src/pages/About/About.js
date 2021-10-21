@@ -15,12 +15,16 @@ function About() {
         <div className="col-sm-12 col-md-12">
           <img src={me} alt="Brandon Craig" className="img-fluid float-left mr-5 mb-2" title="Ugh...I need a better picture."></img>
           <p>My name is Brandon Craig and I've just started my career as a web developer. Web design has always interested me and it's something I really should have learned sooner. It's been a ton of fun learning the different ways a webpage can be displayed and all the science/magic that goes into making it look interesting and responsive. I'm a hard and dedicated worker that loves to code and learn new things. </p>
+          <br />
+          <p>I attended an extension through UC San Diego and earned my certificate in web design after a three month bootcamp. Prior to attending
+            coding bootcamp I had no prior experience with coding. I was able to pick things up pretty quickly, and over three months I learned many skills involving HTML5, CSS, Javascript, React, Bootstrap, MySql, MongoDB, and Git.
+          </p>
         </div>
       </div>
       <br />
       <div className="row">
         <div className="col-sm-12 col-md-12">
-          <p>In my free time I love to play games, listen to music, watch movies, and read about science and physics. I also have a passion for storytelling, character and world-building, and even designing and creating my own games. Mostly table-top stuff, but it still counts!</p>
+          <p>I'm trained in full stack but I prefer working with the front-end. In my free time I love to play games, listen to music, watch movies, and read about science and physics. I also have a passion for storytelling, character and world-building, and even designing and creating my own games. Mostly table-top stuff, but it still counts!</p>
           <p>
             Click{" "}
             <a href="https://drive.google.com/file/d/1difBDVvDQHclO7V9Tz_St6KBEG83npG2/view?usp=sharing" rel="noreferrer" target="_blank">

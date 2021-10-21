@@ -20,7 +20,6 @@ p {
     border-color: slategrey;
 }
 
-/* Removing bg image and replacing with custom css */
 body {
     background-image: linear-gradient(to right, black, gray);
 }

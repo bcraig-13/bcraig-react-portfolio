@@ -21,6 +21,6 @@ p {
 }
 
 /* Removing bg image and replacing with custom css */
-/* body {
-    
-} */
+body {
+    background-image: linear-gradient(to right, black, gray);
+}

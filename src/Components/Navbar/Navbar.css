@@ -26,6 +26,7 @@ nav,
 .nav-link {
   color: white;
   font-weight: bold;
+  background-color: black;
 }
 
 .navbar-nav > li {
@@ -34,8 +35,7 @@ nav,
 }
 
 .zoom:hover {
-  transform: scale(1.8);
-  /* transition: all ease 500ms; */
+  transform: scale(1.5);
 }
 
 .zoom {

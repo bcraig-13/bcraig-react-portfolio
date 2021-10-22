@@ -17,8 +17,25 @@ function About() {
           <p>My name is Brandon Craig and I've just started my career as a web developer. Web design has always interested me and it's something I really should have learned sooner. It's been a ton of fun learning the different ways a webpage can be displayed and all the science/magic that goes into making it look interesting and responsive. I'm a hard and dedicated worker that loves to code and learn new things. </p>
           <br />
           <p>I attended an extension through UC San Diego and earned my certificate in web design after a three month bootcamp. Prior to attending
-            coding bootcamp I had no prior experience with coding. I was able to pick things up pretty quickly, and over three months I learned many skills involving HTML5, CSS, Javascript, React, Bootstrap, MySql, MongoDB, and Git.
+            coding bootcamp I had no prior experience with coding. I was able to pick things up pretty quickly, and over three months I learned many skills involving:
           </p>
+          <table>
+            <tr>
+              <td>HTML5</td>
+              <td>CSS</td>
+              <td>Javascript</td>
+            </tr>
+            <tr>
+              <td>React</td>
+              <td>Bootstrap</td>
+              <td>Git</td>
+            </tr>
+            <tr>
+              <td>MySQL</td>
+              <td>MongoDB</td>
+              <td>Git</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />

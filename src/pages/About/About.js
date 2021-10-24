@@ -27,8 +27,8 @@ function About() {
             </tr>
             <tr>
               <td>React</td>
+              <td></td>
               <td>Bootstrap</td>
-              <td>Git</td>
             </tr>
             <tr>
               <td>MySQL</td>

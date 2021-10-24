@@ -27,7 +27,7 @@ function About() {
             </tr>
             <tr>
               <td>React</td>
-              <td></td>
+              <td id="tableAnimate"></td>
               <td>Bootstrap</td>
             </tr>
             <tr>

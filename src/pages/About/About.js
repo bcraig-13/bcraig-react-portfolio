@@ -21,24 +21,24 @@ function About() {
           </p>
           <table>
             <tr>
-              <td>HTML5</td>
-              <td>CSS</td>
-              <td>Javascript</td>
+              <td>-HTML5</td>
+              <td>-CSS</td>
+              <td>-Javascript</td>
             </tr>
             <tr>
-              <td>React</td>
+              <td>-React</td>
               <td>
                 <div id="spinTest">
                   <div id="spinOne"></div>
                   <div id="spinTwo"></div>
                 </div>
               </td>
-              <td>Bootstrap</td>
+              <td>-Bootstrap</td>
             </tr>
             <tr>
-              <td>MySQL</td>
-              <td>MongoDB</td>
-              <td>Git</td>
+              <td>-MySQL</td>
+              <td>-MongoDB</td>
+              <td>-Git</td>
             </tr>
           </table>
         </div>

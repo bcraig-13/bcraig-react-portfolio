@@ -18,6 +18,7 @@ p {
     border-width:15px;  
     border-style:outset;
     border-color: slategrey;
+    box-shadow: 20px 20px 10px;
 }
 
 body {
@@ -28,7 +29,12 @@ td {
     font-family: 'Times New Roman', Times, serif;
     line-height: 1.5;
     font-size: 22px; 
-    width: 40%;
+    width: 40%
+}
+
+img[title^="Ugh"] {
+    border: 5px double black;
+    padding: 5px;
 }
 
 @keyframes spinstar {

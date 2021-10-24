@@ -2,6 +2,11 @@ button {
     margin-right: 10px;
 }
 
+a:active {
+    transform: rotateY(900deg);
+    animation-duration: 2s;
+}
+
 .card-link {
     font-size: 14px;
     color: white;
@@ -11,7 +16,7 @@ button {
 .card {
     margin-top: 80px;
     background-color: #DFDBE5;
-    border-radius: 25px 0px 25px 0px;
+    border-radius: 35px 0px 35px 0px;
     box-shadow: 10px 10px 5px;
     height: 90%;
     background-image: radial-gradient(circle, silver, gray);
@@ -26,5 +31,5 @@ a:hover {
 }
 
 .card-img-top {
-    border-radius: 25px 0px 25px 0px;
+    border-radius: 35px 0px 35px 0px;
 }

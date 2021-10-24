@@ -4,7 +4,6 @@
   src: url("../../assets/Dreamsoftheatre-5Vja.ttf");
 }
 
-/* Removing bg image and using custom css bg */
 .navbar {
   font-family: Dreams-of-theater;
   font-size: 24px;
@@ -42,4 +41,7 @@ nav,
   transition: all ease 500ms;
 }
 
-
+.zoom:active {
+  transform: rotateY(900deg);
+  animation-duration: 2s;
+}

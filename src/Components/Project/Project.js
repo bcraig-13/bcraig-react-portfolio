@@ -3,6 +3,7 @@ import "./Project.css";
 
 function Project(props) {
   return (
+    
     <div className="col-md-6">
       <div className="card" style={{ width: "100%" }}>
         <img src={props.image} className="card-img-top" alt={props.title} />

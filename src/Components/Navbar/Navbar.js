@@ -19,7 +19,6 @@ function Navbar() {
           <li className="nav-item active zoom">
             <Link className="nav-link" to="/">
               About Me
-              {/* <span className="sr-only">(current)</span> <===Don't know why Bootstrap put this here*/}
             </Link>
           </li>
           <li className="nav-item zoom">

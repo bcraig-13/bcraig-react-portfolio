@@ -27,7 +27,12 @@ function About() {
             </tr>
             <tr>
               <td>React</td>
-              <td id="tableAnimate"></td>
+              <td>
+                <div id="spinTest">
+                  <div id="spinOne"></div>
+                  <div id="spinTwo"></div>
+                </div>
+              </td>
               <td>Bootstrap</td>
             </tr>
             <tr>

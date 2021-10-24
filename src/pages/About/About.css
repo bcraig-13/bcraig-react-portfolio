@@ -31,14 +31,46 @@ td {
     width: 40%;
 }
 
-@keyframes testAnim {
-    from {background-color: yellow;}
-    to {background-color: blue;}
+@keyframes spinstar {
+    0% {
+        background-color: yellow;
+    }
+    50% {
+        background-color: blue;
+        transform: rotate(180deg);
+    }
+    100% {
+        background-color: yellow;
+        transform: rotate(180deg);
+    }
 }
 
-#tableAnimate {
+#spinTest {
+    position: relative;
+}
+
+#spinOne {
     background-color: yellow;
-    animation-name: testAnim;
+    height: 30px;
+    width: 10px;
+    display: inline-block;
+    position: absolute;
+    border-radius: 50px 0px 50px 0px;
+    animation-name: spinstar;
+    animation-duration: 4s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+#spinTwo {
+    background-color: yellow;
+    height: 10px;
+    width: 30px;
+    display: inline-block;
+    position: absolute;
+    border-radius: 0px 50px 0px 50px;
+    animation-name: spinstar;
     animation-duration: 4s;
     animation-direction: alternate;
     animation-iteration-count: infinite;
